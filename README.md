@@ -1,7 +1,11 @@
 # Certificates
 
-- [The Advanced Web Developer Bootcamp](https://www.udemy.com/certificate/UC-cef3f5f9-87b9-44dd-904b-1b4ad52ca316/) Udemy July 2020
+- [Master Software Testing+Jira+Agile on Live App-Be a TeamLead](https://www.udemy.com/certificate/UC-d36b9742-3072-4ed5-adca-d8b304f2adf6/) Udemy May 2020
+- [Selenium WebDriver with Java -Basics to Advanced+Frameworks](https://www.udemy.com/certificate/UC-V98Z5G8E/) Udemy August 2019
+- Certified Tester Foundation Level ISTQB October 2018
+- [ISTQB Foundation Level Certification (CTFL)](https://www.udemy.com/certificate/UC-WRNWM6PG/) Udemy October 2018
 
 # Projects
 
-- [Dad Joke App Site](https://mariyalcs.github.io/dad-joke/) - [Dad Joke App Repo](https://github.com/MariyaLcs/dad-joke) - Built with React, express, axios, API with
+- [Selenium_Java Repo](https://github.com/MariyaLcs/Selenium_Java) - Automation Test with Selenium WebDriver and Java
+- [Mocha test Repo](https://github.com/MariyaLcs/programming_fundamentals_005/blob/master/test/sugar.test.js) - Unit testing with Mocha test framework
